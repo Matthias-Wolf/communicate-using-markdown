@@ -4,3 +4,6 @@
 #This is a code example in Python.
 print("Hello world!")
 ```
+- [x] Complete the "Introduction to GitHub" course
+- [ ] Complete the "Communicate using markdown" course
+- [ ] Create a profile README
