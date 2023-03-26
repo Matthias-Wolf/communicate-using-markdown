@@ -5,5 +5,5 @@
 print("Hello world!")
 ```
 - [x] Complete the "Introduction to GitHub" course
-- [ ] Complete the "Communicate using markdown" course
+- [x] Complete the "Communicate using markdown" course
 - [ ] Create a profile README
